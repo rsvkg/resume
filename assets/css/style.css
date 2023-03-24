@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/IMG_20201101_091203.jpg") top center;
+  background: url("../img/IMG_20210110_091702.png") top center;
   background-size: cover;
 }
 #hero:before {
